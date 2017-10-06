@@ -1,6 +1,6 @@
 #写一个类实现复数的加减乘除
 #python3.4
-#作者：代睿
+#作者：代*
 
 class Rational:
    def __init__(self,m=1,n=1):
